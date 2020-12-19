@@ -1,6 +1,7 @@
 # Vorurteile & Mythen beim E-Auto
-Von: Christian Menschel
-Stand: Dezember 2020
+* Autor: Christian Menschel 
+* Stand: Dezember 2020
+
 Wenn es um E-Autos geht, scheiden sich die Geister: Die einen begrüßen mit Begeisterung die neue Antriebstechnologie. Die Anderen reagieren überaus skeptisch und lehnen sie ab. Gründe gibt es viele. Einer liegt in der Berichtserstattung der populären Leitmedien. Häufig wird dort nicht zwischen wirklichen und vermeintlichen Fakten sowie Vorurteilen klar unterscheiden, sodass es schwer ist, sich eine objektive Meinung zu bilden. Mit ein paar Mythen und Vorurteilen möchte ich aufräumen, so dass jeder auf Basis der aktuellen Erkenntnisse die Option hat, sich selbst eine eigene Meinung zu bilden.
 ## 1. Das Laden dauert ewig
 Beim Laden müssen die Einsatzzwecke des E-Autos unterschieden werden. Durchschnittlich legt ein Mensch in Deutschland eine Strecke von [39 Kilometer pro Tag zurück](https://www.bmvi.de/SharedDocs/DE/Anlage/G/mid-2017-kurzreport.pdf?__blob=publicationFile). Es reicht also in den meisten Fällen aus, wenn das Auto über Nacht langsam mit Wechselstrom (AC) an einer Ladesäule oder zu Hause an einer Steckdose geladen wird. Ungefähr 1/3 der Deutschen leben in einem [Einfamilienhaus]((https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/immobilien-hausbesitzer-bleiben-in-deutschland-in-der-minderheit-16143807.html)) und können somit bequem zu Hause zu laden.
