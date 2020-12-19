@@ -58,10 +58,10 @@ Aber das eigentlich Schöne beim Fahren eines E-Autos ist, dass man aufgrund der
 
 ## 7. E-Autos kosten zu viel
 Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 kam Tesla mit dem Model S auf dem Markt und bot zum ersten Mal E-Autos mit hoher Reichweite an, die jedoch anfangs ziemlich teuer waren. Ab 2019 ist in Deutschland das günstigere Tesla Model 3 verfügbar, das bei vergleichbarer Ausstattung sogar günstiger als ein Mercedes C-Klasse oder BMW 3er ist. Neben Tesla kamen in den letzten Jahren noch viele weitere gut bezahlbare E-Autos auf dem Markt (bei allen Preisen wurde die Förderung von 9.000 EUR schon abgezogen) :
-* Renault Zoe (das meistverkaufte Modell in Deutschland) beginnt bei 20.000 Euro (Reichweite 290 bis 380 Kilometer) [Link](https://www.auto-motor-und-sport.de/elektroauto/renault-zoe-2020-mehr-reichweite-mehr-leistung-gleicher-preis/)
-* Kia e-Niro ab circa 25.000 EUR (280 bis 455 Kilometer) [Link](https://www.kia.com/de/modelle/e-Niro/entdecken/#/)
-* Škoda Enyaq ab circa 29.000 EUR (400 bis 510 Kilometer) [Link](https://www.skoda-auto.de/modelle/enyaq-iv/enyaq-iv?gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6JyhQYzfIc9N9DiIgaT1FCOIttyOdVcyz4hMMLlj3TdOT6tYyayJTUaAnnpEALw_wcB&gclsrc=aw.ds)
-* Volkswagen ID.3 (ab circa 25.000 EUR (300 bis 550 Kilometer) [Link](https://www.volkswagen.de/de/modelle-und-konfigurator/id3.html?---=%7B%22modelle-und-konfigurator_id3_sectiongroup_7331634_featureappsection%22%3A%22%2F%2B%2F0%22%7D#MOFA)
+* [Renault Zoe](https://www.auto-motor-und-sport.de/elektroauto/renault-zoe-2020-mehr-reichweite-mehr-leistung-gleicher-preis/) das meistverkaufte E-Auto in Deutschland beginnt bei 20.000 Euro (Reichweite 290 bis 380 Kilometer)
+* [Kia e-Niro](https://www.kia.com/de/modelle/e-Niro/entdecken/#/) ab circa 25.000 EUR (Reichweite 280 bis 455 Kilometer)
+* [Škoda Enyaq](https://www.skoda-auto.de/modelle/enyaq-iv/enyaq-iv?gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6JyhQYzfIc9N9DiIgaT1FCOIttyOdVcyz4hMMLlj3TdOT6tYyayJTUaAnnpEALw_wcB&gclsrc=aw.ds) ab circa 29.000 EUR (Reichweite 400 bis 510 Kilometer)
+* [Volkswagen ID.3](https://www.volkswagen.de/de/modelle-und-konfigurator/id3.html?---=%7B%22modelle-und-konfigurator_id3_sectiongroup_7331634_featureappsection%22%3A%22%2F%2B%2F0%22%7D#MOFA) ab circa 25.000 EUR (Reichweite 300 bis 550 Kilometer)
 
 Aber auch Kleinwagen für weit unter 20.000 Euro sind nun bald verfügbar. Der VW eUp, Skoda Citigo oder Seat MII sind theoretisch für 11.000 Euro (mit Förderungen) zu kaufen, leider sind diese auf lange Sicht ausverkauft. Aber VW hat hier neue günstigere Modelle - z.B. der ID.2 für 20.000 Euro (vor Förderung) [angekündigt](https://www.manager-magazin.de/unternehmen/autoindustrie/vw-id-2-volkswagen-plant-billiges-elektroauto-a-b2a1a574-121a-4c72-9b7a-b62f0e1c0181).
 Jetzt gegen Ende des Jahres 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären z.b.
