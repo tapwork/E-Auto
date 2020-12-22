@@ -198,7 +198,7 @@ Um das Ziel des Paris Klimaabkommens von maximal 1,5 Grad Celsius zu erreichen, 
 * ChargeEV [iOS App](https://apps.apple.com/de/app/chargev/id1151812209) kostenlose App zum Finden von Ladesäulen
 * [CLEANELECTRIC](https://www.cleanelectric.de) bester Podcast zum Thema Elektromobilität mit netter Slack Community
 * [Ladekarten-Kompass](https://emobly.com/de/category/laden/ladekarten-kompass/) Übersicht der aktuell günstigsten und besten Ladekarten (monatlich aktualisiert)
-* E-Autos in der Übersicht mit [Angaben zu Reichweiten, Ladezeiten und Verbräuchen](https://www.mobilityhouse.com/de_de/ratgeber/ladezeitenuebersicht-fuer-elektroautos)
+* [ev-database](https://ev-database.de) E-Autos im Vergleich mit Angaben zu Preisen, Reichweiten, Ladezeiten, Akku und Verbräuchen
 * [Nextmove](https://nextmove.de) - Größter Vermieter für E-Autos (Kurz und Langzeit) in Deutschland. Bietet auch viele Fahrberichte und Verbrauchsfahrten auf [YouTube](https://www.youtube.com/c/nextmovevideos)
 * [Car Maniac](https://www.youtube.com/channel/UCiZnK4X73okItJqaCs2YDOQ) E-Autos im Vergleich auf YouTube. Tests von Ladegeschwindigkeiten, Reichweiten uvm.
 * ["Bloch erklärt"](https://www.youtube.com/watch?v=1m9wOKC-JFw&t=1487s) Technische Erklär-Videos zum Thema Batterien, E-Autos, Wasserstoff uvm.
