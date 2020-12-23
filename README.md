@@ -23,7 +23,7 @@ Ich bin mit meinem Tesla Model 3 von der Region Aachen nach Frankreich, in die S
 
 ## 2. E-Autos haben ein Problem mit der Reichweite
 Die Reichweiten der E-Autos kommen immer mehr in die Nähe der Benziner oder Diesel. Reale Reichweiten Stadt und Autobahn kombiniert:
-* [VW ID.3 ID.3 Pro S](https://ev-database.de/pkw/1203/Volkswagen-ID3-Pro-S) - 380 Kilometer (Winter) bis 520 Kilometer (Sommer)
+* [VW ID.3 Pro S](https://ev-database.de/pkw/1203/Volkswagen-ID3-Pro-S) - 380 Kilometer (Winter) bis 520 Kilometer (Sommer)
 * Tesla [Model 3 Long Range](https://ev-database.de/pkw/1321/Tesla-Model-3-Long-Range) 400 Kilometer (Winter) bis 550 Kilometer (Sommer)
 * Renault [Zoe R135 Z.E. 50](https://ev-database.de/pkw/1205/Renault-Zoe-R135-ZE-50) 260 Kilometer (Winter) bis 355 Kilometer (Sommer)
 
