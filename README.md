@@ -69,10 +69,11 @@ Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 ka
 
 
 Aber auch Kleinwagen für weit unter 20.000 Euro sind nun bald verfügbar. Der VW eUp, Skoda Citigo oder Seat MII sind theoretisch für 11.000 Euro (mit Förderung) im Angebot. Leider sind diese auf lange Sicht ausverkauft. Aber VW hat hier neue günstigere Modelle - z.B. der [ID.2 für 20.000 Euro](https://www.manager-magazin.de/unternehmen/autoindustrie/vw-id-2-volkswagen-plant-billiges-elektroauto-a-b2a1a574-121a-4c72-9b7a-b62f0e1c0181) (vor Förderung) angekündigt.
-Jetzt gegen Ende des Jahres 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären zum Beispiel:
+Seit dem Jahr 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären zum Beispiel:
 * [Opel Corsa-e](https://www.auto-motor-und-sport.de/fahrbericht/opel-corsa-e-fahrbericht/) für circa 20.000 Euro (inklusive Förderung) und bis 330 Kilometer Reichweite
 * [Fiat 500e](https://www.auto-motor-und-sport.de/fahrbericht/fiat-500e-cabrio/) - verschiedene Modellen mit Reichweiten von 120 bis zu 350 Kilometer zu einem Preis ab 14.560 Euro (inklusive 9.000 Euro Förderung).
 * [Smart EQ fortwo](https://www.smart.com/de/de/modelle/eq-fortwo-coupe/konfigurator?onlineCode=MWKM2LFR) ab 12.370 Euro mit einer Reichweite von 100 bis 150 Kilometer
+Aber auch gebraucht gibt es bereits erschwingliche E-Autos, wie zum Beispiel die Renault Zoe ab [4.900 Euro](https://suchen.mobile.de/fahrzeuge/search.html?dam=0&isSearchRequest=true&ms=20700;46&p=:5000&sfmr=false&vc=Car) (zzgl. Miete der Batterie ab 59 Euro/Monat).
 
 Neben den Anschaffungskosten fallen bei einem Verbrenner höhere laufende Kosten als bei einem E-Auto an. Zusätzlich sind E-Autos für die nächsten Jahre von der KFZ-Steuer befreit. Weil beim E-Auto Dinge wie Kupplung, Öl, Getriebe, Auspuff, Katalysator oder Zündkerzen haben nicht mehr existieren, sind Reparaturen und Wartungen günstiger. Die Bremsen halten beim E-Auto auch wesentlich länger als bei einem Verbrenner. Somit sind die kostspieligen Inspektionen beim E-Auto Geschichte. Eine einfache Vergleichsrechnung (VW ID.3 und VW Golf TSI mit etwa ähnlicher Ausstattung) über 5 Jahre und 75.000 Kilometer:
 |                           | ID.3 Pure mit 45 kWh  (330 km WLTP Reichweite)                  |                       Golf (1.0 TSI 110 PS, 6 Gang, VW Code VPTM8JYM)                      |
