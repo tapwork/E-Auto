@@ -54,6 +54,7 @@ Dieser Mythos ist schnell widerlegt, wer selbst einmal ein E-Auto gefahren ist. 
 * Der BMW i3 braucht [7,3 Sekunden](https://www.auto-motor-und-sport.de/test/bmw-i3-94-ah/technische-daten/)
 * Audi E-Tron braucht [5,5 Sekunden](https://evchargeplus.com/de/fastest-electric-cars/)
 * VW ID.3 braucht [7,3 Sekunden](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/vw/vw-id-3/)
+
 Fun Fact: Das neue Tesla Model S Plaid+ ist das schnellste Serienauto von 0 auf 100 km/h und über die Viertelmeile.
 Aber das eigentlich Schöne beim Fahren eines E-Autos ist, dass die FahrerInnen mit der Ruhe und des stufenlosen Beschleunigen viel entspannter unterwegs sind.
 
@@ -102,6 +103,7 @@ Sie bietet mehr Leistung (11 kW) als eine normale Steckdose
 und kann vom Stromanbieter gesteuert werden, womit eine Überlastung verhindert werden kann. Zusätzlich werden diese steuerbaren Ladeeinrichtungen seit November 2020 mit [900 Euro gefördert](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Förderprodukte/Ladestationen-für-Elektroautos-Wohngebäude-(440)/).
 Weiterhin gibt noch es regionale und [lokale Förderprogramme](https://www.autobild.de/artikel/wallbox-foerderung-zuschuss-18418135.html). Die Förderung deckt teilweise bis zu 100 Prozent der Kosten ab.
 Mit [Vehicle-To-Grid Technologien (V2G)](https://www.mobilityhouse.com/de_de/vehicle-to-grid) könnten E-Autos in wenigen Jahren als Stromspeicher dienen. Damit kann der überschüssige Strom aus Windkraft oder Photovoltaik (Solar) zwischengespeichert werden. Das E-Auto kann somit einen Beitrag zur Stabilisierung des Stromnetzes und zur Energiewende leisten. 
+
 **Meine persönliche Erfahrung:** Ich habe eine recht schwache Stromanbindung in Belgien (nur mit 30 A abgesichert), aber trotzdem kann ich ohne Sorgen den Tesla über Nacht mit 3,7 kW (etwas mehr als eine normale Steckdose) für 250 bis 300 Kilometer laden.
 
 ## 10. E-Autos sind zu leise und eine Gefahr für den Verkehr
