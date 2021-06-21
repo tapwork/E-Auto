@@ -86,10 +86,10 @@ Neben den Anschaffungskosten fallen bei einem Verbrenner höhere laufende Kosten
 |                                                                                 |
 | Steuern                   |                                                                 |                                     330 Euro                                    |
 | Sonstige Kosten           |                                                                 | Bremsen circa 1000 Euro                                                         |
-| Sprit / Strom (75.000 km) | circa 3150 Euro (0,30 Euro/kWh und bei 14 kWh/100 km Verbrauch) | circa 5600 Euro (bei 1,25 Euro/Liter und 6 Liter/100 km Durchschnittsverbrauch) |
-| Gesamt (nach 5 Jahren):   | circa 25.075 Euro                                               | circa 30.700 Euro                                                               |
+| Sprit / Strom (75.000 km) | circa 5100 Euro (0,40 Euro/kWh und bei 17 kWh/100 km Verbrauch) | circa 6750 Euro (bei 1,50 Euro/Liter und 6 Liter/100 km Durchschnittsverbrauch) |
+| Gesamt (nach 5 Jahren):   | circa 27.025 Euro                                               | circa 31.850 Euro                                                               |
 
-Kosten für Inspektionen sind nicht berücksichtigt, da diese für den ID.3 noch nicht bekannt sind. Erwartbar sind geringere Service-Kosten als beim Golf.
+Kosten für Inspektionen sind nicht berücksichtigt, da diese für den ID.3 noch nicht bekannt sind. Erwartbar sind geringere Service-Kosten als beim Golf. Sprit- und Stromkosten sind variabel und unterliegen den üblichen Anpassungen, wobei die Preise für Benzin und Diesel aufgrund der CO2-Steuer zukünftig weiter steigen werden.  
 
 
 
