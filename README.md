@@ -47,6 +47,7 @@ Die Akkus von E-Autos halten deutlich länger als bisher vermutet oder wie einig
 ![1,2 Mio. Kilometer mit dem Tesla](img/Gemmingen_1.jpg "")
 
 (Abb. Hansjörg von Gemmingen @gem8mingen)
+
 Ein weiterer deutscher Teslafahrer mit einem Model S fuhr bisher über 400.000 Kilometer und hat eine Bilanz gezogen. "Die Reparaturkosten belaufen sich bisher auf etwa 4.500 Euro." Der Akku wurde einmal repariert und hat nach den vielen Kilometern nur 10% von der originalen Kapazität verloren. [Quelle](https://efahrer.chip.de/news/tesla-im-6-jahre-dauertest-deutscher-ingenieur-zieht-nach-400000-km-bilanz_105400)  
 Tesla [verspricht beim Model 3 1.500 Ladezyklen](https://twitter.com/elonmusk/status/1117099861273219073) eines Akkus, was eine Gesamtdistanz von 500.000 bis 800.000 Kilometer entspricht und auch Lexus bietet für sein neues elektrisches Auto UX 300e eine [Garantie von einer Million Kilometer](https://www.auto-motor-und-sport.de/fahrbericht/lexus-ux-300e-elektro-crossover/).
 Ein Akku kann für mehrere Autoleben genutzt werden, ohne die Akkus recyceln und neu bauen zu müssen. Das senkt Kosten und verbessert den ökologischen Fußabdruck. Wenn die Batterie im Auto aufgrund nachlassender Leistung ausgedient hat, kann sie immer noch ein zweites Leben (“Second-Life”) in Gebäuden als Pufferspeicher für Strom aus der Sonne (Photovoltaik) antreten. Dies wurde bereits 2018 erfolgreich für das [Amsterdamer Stadion umgesetzt ](https://www.electrive.net/2018/07/02/amsterdam-arena-versorgt-sich-mit-3-mw-speicher/).
