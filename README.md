@@ -65,7 +65,6 @@ Aber das eigentlich Schöne beim Fahren eines E-Autos ist, dass die FahrerInnen 
 ## 7. E-Autos kosten zu viel
 Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 kam Tesla mit dem Model S auf dem Markt und bot zum ersten Mal E-Autos mit hoher Reichweite an, die jedoch anfangs ziemlich teuer waren. Ab 2019 ist in Deutschland das günstigere Tesla Model 3 verfügbar, das bei vergleichbarer Ausstattung sogar günstiger als ein Mercedes C-Klasse oder BMW 3er ist. Neben Tesla kamen in den letzten Monaten noch viele weitere E-Autos auf dem Markt, die nun mit den Förderungen ab 20.000 Euro zu kaufen sind. Folgende Fahrzeuge dienen als Beispiele mit aktuellen Preisen inkl. Förderungen und Reichweitenspannen von Winter bis Sommer:
 * [Renault Zoe](https://www.auto-motor-und-sport.de/elektroauto/renault-zoe-2020-mehr-reichweite-mehr-leistung-gleicher-preis/) das meistverkaufte E-Auto in Deutschland beginnt bei circa 20.500 Euro (Reichweite 200 bis 355 Kilometer)
-* [Renault Twingo Electric](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/renault/renault-twingo-electric/) ab circa 12.000 Euro 
 * [Kia e-Niro](https://www.kia.com/de/modelle/e-Niro/entdecken/#/) ab circa 25.000 EUR (Reichweiten von 280 bis 455 Kilometer)
 * [Hyundai Kona](https://www.hyundai.de/modelle/der-neue-kona-elektro/) ab 25.000 Euro (Reichweiten von 250 bis 480 Kilometer)
 * [Škoda Enyaq](https://www.skoda-auto.de/modelle/enyaq-iv/enyaq-iv?gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6JyhQYzfIc9N9DiIgaT1FCOIttyOdVcyz4hMMLlj3TdOT6tYyayJTUaAnnpEALw_wcB&gclsrc=aw.ds) ab circa 30.000 EUR (Reichweite 400 bis 510 Kilometer)
@@ -75,9 +74,10 @@ Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 ka
 
 Aber auch Kleinwagen für weit unter 20.000 Euro sind nun bald verfügbar. Der VW eUp, Skoda Citigo oder Seat MII sind theoretisch für 11.000 Euro (mit Förderung) im Angebot. Leider sind diese auf lange Sicht ausverkauft. Aber VW hat hier neue günstigere Modelle - z.B. der [ID.2 für 20.000 Euro](https://www.manager-magazin.de/unternehmen/autoindustrie/vw-id-2-volkswagen-plant-billiges-elektroauto-a-b2a1a574-121a-4c72-9b7a-b62f0e1c0181) (vor Förderung) angekündigt.
 Seit dem Jahr 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären zum Beispiel:
+* [Renault Twingo Electric](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/renault/renault-twingo-electric/) ab circa 12.000 Euro 
 * [Opel Corsa-e](https://www.auto-motor-und-sport.de/fahrbericht/opel-corsa-e-fahrbericht/) für circa 20.000 Euro (inklusive Förderung) und bis 330 Kilometer Reichweite
 * [Fiat 500e](https://www.auto-motor-und-sport.de/fahrbericht/fiat-500e-cabrio/) - verschiedene Modellen mit Reichweiten von 120 bis zu 350 Kilometer zu einem Preis ab 14.560 Euro (inklusive 9.570 Euro Brutto Förderung).
-* [Smart EQ fortwo](https://www.smart.com/de/de/modelle/eq-fortwo-coupe/konfigurator?onlineCode=MWKM2LFR) ab 12.370 Euro mit einer Reichweite von 100 bis 150 Kilometer
+
 Aber auch gebraucht gibt es bereits erschwingliche E-Autos, wie zum Beispiel die Renault Zoe ab [4.900 Euro](https://suchen.mobile.de/fahrzeuge/search.html?dam=0&isSearchRequest=true&ms=20700;46&p=:5000&sfmr=false&vc=Car) (zzgl. Miete der Batterie ab 59 Euro/Monat).
 
 Neben den Anschaffungskosten fallen bei einem Verbrenner höhere laufende Kosten als bei einem E-Auto an. Zusätzlich sind E-Autos für die nächsten Jahre von der KFZ-Steuer befreit. Weil beim E-Auto Dinge wie Kupplung, Öl, Getriebe, Auspuff, Katalysator oder Zündkerzen haben nicht mehr existieren, sind Reparaturen und Wartungen günstiger. Die Bremsen halten beim E-Auto auch wesentlich länger als bei einem Verbrenner. Somit sind die kostspieligen Inspektionen beim E-Auto Geschichte. Eine einfache Vergleichsrechnung (VW ID.3 und VW Golf TSI mit etwa ähnlicher Ausstattung) über 5 Jahre und 75.000 Kilometer:
