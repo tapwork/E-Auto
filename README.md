@@ -55,28 +55,31 @@ Ein Akku kann für mehrere Autoleben genutzt werden, ohne die Akkus recyceln und
 ## 6. E-Autos sind langsam und machen keinen Spaß
 Dieser Mythos ist schnell widerlegt, wer selbst einmal ein E-Auto gefahren ist. Es fährt leise und stufenlos an (keine Schaltvorgänge), bremst von selbst beim Wegnehmen vom Strompedal (Rekuperation = Energiegewinnung). Der Fahrer oder die Fahrerin gleitet bequem mit einem Pedal durch den Verkehr. Das Bremspedal wird nur in Ausnahmefällen benötigt. Das Fahren ist entspannter und vorausschauender als mit einem Verbrenner. Wenn es doch mal schnell gehen soll:
 * Der Tesla Model S Plaid+ schafft es unter [2,1 Sekunden von 0-100 km/h](https://www.auto-motor-und-sport.de/elektroauto/tesla-model-s-plaid-2021-reichweite-technik-preise/)
-* Der BMW i3 braucht [7,3 Sekunden](https://www.auto-motor-und-sport.de/test/bmw-i3-94-ah/technische-daten/)
-* Audi E-Tron braucht [5,5 Sekunden](https://evchargeplus.com/de/fastest-electric-cars/)
-* VW ID.3 braucht [7,3 Sekunden](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/vw/vw-id-3/)
+* Tesla Model 3 Performance [3,3 Sekunden](https://ev-database.de/pkw/1322/Tesla-Model-3-Performance)
+* Kia EV6 GT [3,5 Sekunden](https://ev-database.de/pkw/1471/Kia-EV6-GT)
+* Audi E-Tron [5,5 Sekunden](https://evchargeplus.com/de/fastest-electric-cars/)
+* VW ID.3 [7,3 Sekunden](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/vw/vw-id-3/)
+* VW ID.4 GTX [6,2 Sekunden](https://www.volkswagen.de/de/modelle/id4-gtx.html)
 
 Fun Fact: Das neue Tesla Model S Plaid+ ist das schnellste Serienauto von 0 auf 100 km/h und über die Viertelmeile.
-Aber das eigentlich Schöne beim Fahren eines E-Autos ist, dass die FahrerInnen mit der Ruhe und des stufenlosen Beschleunigen viel entspannter unterwegs sind.
+Aber das eigentlich Schöne beim Fahren eines E-Autos ist, dass die FahrerInnen mit der Ruhe und der stufenlosen Beschleunigung viel entspannter unterwegs sind.
 
 ## 7. E-Autos kosten zu viel
-Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 kam Tesla mit dem Model S auf dem Markt und bot zum ersten Mal E-Autos mit hoher Reichweite an, die jedoch anfangs ziemlich teuer waren. Ab 2019 ist in Deutschland das günstigere Tesla Model 3 verfügbar, das bei vergleichbarer Ausstattung sogar günstiger als ein Mercedes C-Klasse oder BMW 3er ist. Neben Tesla kamen in den letzten Monaten noch viele weitere E-Autos auf dem Markt, die nun mit den Förderungen ab 20.000 Euro zu kaufen sind. Folgende Fahrzeuge dienen als Beispiele mit aktuellen Preisen inkl. Förderungen und Reichweitenspannen von Winter bis Sommer:
-* [Renault Zoe](https://www.auto-motor-und-sport.de/elektroauto/renault-zoe-2020-mehr-reichweite-mehr-leistung-gleicher-preis/) das meistverkaufte E-Auto in Deutschland beginnt bei circa 20.500 Euro (Reichweite 200 bis 355 Kilometer)
-* [Kia e-Niro](https://www.kia.com/de/modelle/e-Niro/entdecken/#/) ab circa 25.000 EUR (Reichweiten von 280 bis 455 Kilometer)
-* [Hyundai Kona](https://www.hyundai.de/modelle/der-neue-kona-elektro/) ab 25.000 Euro (Reichweiten von 250 bis 480 Kilometer)
-* [Škoda Enyaq](https://www.skoda-auto.de/modelle/enyaq-iv/enyaq-iv?gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6JyhQYzfIc9N9DiIgaT1FCOIttyOdVcyz4hMMLlj3TdOT6tYyayJTUaAnnpEALw_wcB&gclsrc=aw.ds) ab circa 30.000 EUR (Reichweite 400 bis 510 Kilometer)
-* [Volkswagen ID.3](https://www.volkswagen.de/de/modelle-und-konfigurator/id3.html?---=%7B%22modelle-und-konfigurator_id3_sectiongroup_7331634_featureappsection%22%3A%22%2F%2B%2F0%22%7D#MOFA) ab 21.925 EUR (Reichweite 275 bis 550 Kilometer)
-* [Mercedes EQA](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes/mercedes-eqa/) ab circa 38.000 Euro (Reichweite von 320 bis 420 Kilometer). Der EQA ist in der Größe vergleichbar mit dem Mercedes GLA, der mit einer vergleichbaren Ausstattung circa 45.000 Euro [kostet](https://www.mercedes-benz.de/passengercars/content-pool/tool-pages/car-configurator.html/onlinecode/CCci/DE/de/MZCKUH5N?pid=direct_link_entry).
-* [Tesla Model 3](https://www.tesla.com/de_de/model3/design#battery) ab ca. 36.000 Euro (Reichweite 320 bis 550 Kilometer)
+Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 kam Tesla mit dem Model S auf dem Markt und bot zum ersten Mal E-Autos mit hoher Reichweite an, die jedoch anfangs ziemlich teuer waren. Ab 2019 ist in Deutschland das günstigere Tesla Model 3 verfügbar, das bei vergleichbarer Ausstattung sogar günstiger als ein Mercedes C-Klasse oder BMW 3er ist. Neben Tesla kamen in den letzten Monaten noch viele weitere E-Autos auf dem Markt, die nun mit den Förderungen ab 20.000 Euro zu kaufen sind. Folgende Fahrzeuge dienen als Beispiele mit aktuellen Preisen (inkl. staatlichen Förderungen in Deutschland - Stand Januar 2022) und Reichweitenspannen von Winter bis Sommer:
+* [Renault Zoe](https://www.auto-motor-und-sport.de/elektroauto/renault-zoe-2020-mehr-reichweite-mehr-leistung-gleicher-preis/) das meistverkaufte E-Auto in Deutschland beginnt bei circa 20.500 Euro (reale Reichweite 200 bis 355 Kilometer)
+* [Kia e-Niro](https://www.kia.com/de/modelle/e-Niro/entdecken/#/) ab circa 25.000 EUR (reale Reichweiten von 280 bis 455 Kilometer)
+* [Hyundai Kona](https://www.hyundai.de/modelle/der-neue-kona-elektro/) ab 25.000 Euro (reale Reichweiten von 250 bis 480 Kilometer)
+* [Škoda Enyaq](https://www.skoda-auto.de/modelle/enyaq-iv/enyaq-iv?gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6JyhQYzfIc9N9DiIgaT1FCOIttyOdVcyz4hMMLlj3TdOT6tYyayJTUaAnnpEALw_wcB&gclsrc=aw.ds) ab 25.650 EUR (reale Reichweite 210 - 435 Kilometer)
+* [Volkswagen ID.3](https://www.volkswagen.de/de/modelle-und-konfigurator/id3.html?---=%7B%22modelle-und-konfigurator_id3_sectiongroup_7331634_featureappsection%22%3A%22%2F%2B%2F0%22%7D#MOFA) ab 21.925 EUR (reale Reichweite 275 bis 550 Kilometer)
+* [Mercedes EQA](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes/mercedes-eqa/) ab 38.000 Euro (reale Reichweite von 250 bis 500 Kilometer). Der EQA ist in der Größe vergleichbar mit dem Mercedes GLA, der mit einer vergleichbaren Ausstattung circa 45.000 Euro [kostet](https://www.mercedes-benz.de/passengercars/content-pool/tool-pages/car-configurator.html/onlinecode/CCci/DE/de/MZCKUH5N?pid=direct_link_entry).
+* [Tesla Model 3](https://www.tesla.com/de_de/model3/design#battery) ab ca. 38.000 Euro (reale Reichweite 320 bis 550 Kilometer)
 
 Aber auch Kleinwagen für weit unter 20.000 Euro sind nun bald verfügbar. Der VW eUp, Skoda Citigo oder Seat MII sind theoretisch für 11.000 Euro (mit Förderung) im Angebot. Leider sind diese auf lange Sicht ausverkauft. Aber VW hat hier neue günstigere Modelle - z.B. der [ID.2 für 20.000 Euro](https://www.manager-magazin.de/unternehmen/autoindustrie/vw-id-2-volkswagen-plant-billiges-elektroauto-a-b2a1a574-121a-4c72-9b7a-b62f0e1c0181) (vor Förderung) angekündigt.
 Seit dem Jahr 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären zum Beispiel:
-* [Renault Twingo Electric](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/renault/renault-twingo-electric/) ab circa 12.000 Euro 
+* [Renault Twingo Electric](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/renault/renault-twingo-electric/) ab circa 12.000 Euro (reale Reichweiten 100 bis 205 Kilometer) 
 * [Opel Corsa-e](https://www.auto-motor-und-sport.de/fahrbericht/opel-corsa-e-fahrbericht/) für circa 20.000 Euro (inklusive Förderung) und bis 330 Kilometer Reichweite
-* [Fiat 500e](https://www.auto-motor-und-sport.de/fahrbericht/fiat-500e-cabrio/) - verschiedene Modellen mit Reichweiten von 120 bis zu 350 Kilometer zu einem Preis ab 14.560 Euro (inklusive 9.570 Euro Brutto Förderung).
+* [Fiat 500e](https://www.auto-motor-und-sport.de/fahrbericht/fiat-500e-cabrio/) - verschiedene Modellen mit realen Reichweiten von 120 bis zu 350 Kilometer zu einem Preis ab 14.560 Euro (inklusive 9.570 Euro Brutto Förderung).
+Einen Vergleich von elektrischen Kleinwagen gibt es [hier](https://www.autobild.de/artikel/dacia-spring-fiat-500e-renault-twingo-electric-elektro-test-motor-preis-21025819.html)
 
 Aber auch gebraucht gibt es bereits erschwingliche E-Autos, wie zum Beispiel die Renault Zoe ab [4.900 Euro](https://suchen.mobile.de/fahrzeuge/search.html?dam=0&isSearchRequest=true&ms=20700;46&p=:5000&sfmr=false&vc=Car) (zzgl. Miete der Batterie ab 59 Euro/Monat).
 
