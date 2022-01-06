@@ -1,7 +1,7 @@
 # Vorurteile & Mythen beim E-Auto
 * Autor: Christian Menschel 
 * Erste Version: Dezember 2020
-* Letzte Aktualisierung: Nov 2021
+* Letzte Aktualisierung: 02/2022
 
 Wenn es um E-Autos geht, scheiden sich die Geister: Die einen begrüßen mit Begeisterung die neue Antriebstechnologie. Die Anderen reagieren überaus skeptisch und lehnen sie ab. Gründe gibt es viele. Einer liegt in der Berichtserstattung der populären Leitmedien. Häufig wird dort nicht zwischen wirklichen und vermeintlichen Fakten sowie Vorurteilen klar unterscheiden, sodass es schwer ist, sich eine objektive Meinung zu bilden. Mit ein paar Mythen und Vorurteilen möchte ich aufräumen, so dass jeder auf Basis der aktuellen Erkenntnisse die Option hat, sich selbst eine eigene Meinung zu bilden.
 ## 1. Das Laden dauert ewig
