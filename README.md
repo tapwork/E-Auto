@@ -26,7 +26,7 @@ Meine eigene Erfahrung: Ich bin mit meinem Tesla Model 3 von der Region Aachen n
 ## 2. E-Autos haben ein Problem mit der Reichweite
 Auch wenn die Reichweiten der E-Autos immer mehr in die Nähe der Benziner oder Diesel kommen, so 
 sind diese stärker von äußeren Faktoren abhängig als bei Verbrenner-Autos. Bei kalten Temperaturen, bei Gegenwind oder starkem Regen kann sich der Verbrauch um 15 bis 30% erhöhen. Auch wird - wie bei Verbrennern - bei schnelleren Fahrten auf Autobahnen mehr Energie benötigt.  
-Folgende drei Beispiele mit Bedingungen im Winter bis zu idealen äußeren Faktoren dienen als Beispiele für reale Reichweiten: (Stadt und Autobahn kombiniert):
+Folgende drei Beispiele mit Bedingungen im Winter bis zu idealen äußeren Faktoren im Sommer dienen als Beispiele für reale Reichweiten: (Stadt und Autobahn kombiniert):
 * [VW ID.3 Pro S](https://ev-database.de/pkw/1203/Volkswagen-ID3-Pro-S) - 380 Kilometer bis zu 500 Kilometer 
 * Tesla [Model 3 Long Range](https://ev-database.de/pkw/1321/Tesla-Model-3-Long-Range) 350 Kilometer bis zu 550 Kilometer
 * Renault [Zoe R135 Z.E. 50](https://ev-database.de/pkw/1205/Renault-Zoe-R135-ZE-50) 250 Kilometer bis zu 355 Kilometer
