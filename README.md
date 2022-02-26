@@ -74,8 +74,8 @@ Vor zehn Jahren waren E-Autos noch ziemliche Exoten auf den Straßen. Ab 2013 ka
 * [Mercedes EQA](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes/mercedes-eqa/) ab 38.000 Euro (reale Reichweite von 250 bis 500 Kilometer). Der EQA ist in der Größe vergleichbar mit dem Mercedes GLA, der mit einer vergleichbaren Ausstattung circa 45.000 Euro [kostet](https://www.mercedes-benz.de/passengercars/content-pool/tool-pages/car-configurator.html/onlinecode/CCci/DE/de/MZCKUH5N?pid=direct_link_entry).
 * [Tesla Model 3](https://www.tesla.com/de_de/model3/design#battery) ab ca. 38.000 Euro (reale Reichweite 320 bis 550 Kilometer)
 
-Aber auch Kleinwagen für weit unter 20.000 Euro sind nun bald verfügbar. Der VW eUp, Skoda Citigo oder Seat MII sind theoretisch für 11.000 Euro (mit Förderung) im Angebot. Leider sind diese auf lange Sicht ausverkauft. Aber VW hat hier neue günstigere Modelle - z.B. der [ID.2 für 20.000 Euro](https://www.manager-magazin.de/unternehmen/autoindustrie/vw-id-2-volkswagen-plant-billiges-elektroauto-a-b2a1a574-121a-4c72-9b7a-b62f0e1c0181) (vor Förderung) angekündigt.
-Seit dem Jahr 2020 werden mehr E-Autos im günstigeren Preissegment angeboten. Da wären zum Beispiel:
+Aber auch Kleinwagen sind inklusive Umweltbonus Förderung für unter 20.000 Euro verfügbar.
+* [VW e-up](https://www.volkswagen-newsroom.com/de/pressemitteilungen/welcome-back-volkswagen-e-up-wieder-bestellbar-7755) nach Förderung ein Endkundenpreis ab 17.325 Euro (reale Reichweiten zwischen 145 - 315 Kilometer)
 * [Renault Twingo Electric](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/renault/renault-twingo-electric/) ab circa 12.000 Euro (reale Reichweiten 100 bis 205 Kilometer) 
 * [Opel Corsa-e](https://www.auto-motor-und-sport.de/fahrbericht/opel-corsa-e-fahrbericht/) für circa 20.000 Euro (inklusive Förderung) und bis 330 Kilometer Reichweite
 * [Fiat 500e](https://www.auto-motor-und-sport.de/fahrbericht/fiat-500e-cabrio/) - verschiedene Modellen mit realen Reichweiten von 120 bis zu 350 Kilometer zu einem Preis ab 14.560 Euro (inklusive 9.570 Euro Brutto Förderung).
